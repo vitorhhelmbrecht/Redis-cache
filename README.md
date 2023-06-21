@@ -1,6 +1,6 @@
 # Redis-cache
 
-Made with Node.js and Redis.
+Made with ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white) and ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=plastic&logo=redis&logoColor=white).
 
 I recommend using docker to deploy Redis locally, since I find it easier. All you need to do is execute the docker command `run -d --name redis-stack-server -p 6379:6379 redis/redis-stack-server:latest` and it's done.
 
